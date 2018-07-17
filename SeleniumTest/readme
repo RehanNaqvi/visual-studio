@@ -1,0 +1,4 @@
+This project is created in Visual Studios 2017 with .NET framework
+Open in Vsiual Studios
+Click on 'Build' and select 'Build Solution'
+Right click on 'test' in the Test Explorer and click on 'Run Selected Tests'
